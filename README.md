@@ -1,4 +1,4 @@
-# HIVE SCHOOL
+# HIVE CODING SCHOOL - HELSINKI
 A few words about Hive:
 Hive is a coding school belong to the 42 school network until 2026. Our curriculum has been tested and implemented by many schools in the same networks in different parts of the world. Hive emphasizes on peer-to-peer and project-based study, with no teachers, no class, which make it special and suitable for students with no previous coding experience like me. I'm embraced this journey and thankful for the opportunities and supports that Hivers' network has brought. 
 
