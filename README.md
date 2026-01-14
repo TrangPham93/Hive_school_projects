@@ -62,7 +62,7 @@ The C++ modules introduces the foundations of C++ and object-oriented programmin
 These C++ modules deepen understanding of C++ OOP. Key concepts introduced are inheritance, abstract class, virtual function, polymorphism.
 
 
-[ft_irc]() ![C++ Logo](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B)
+[ft_irc](https://github.com/TrangPham93/irc_server) ![C++ Logo](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B)
 
 [Inception]()
 <!--
