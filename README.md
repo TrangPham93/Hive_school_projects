@@ -64,7 +64,13 @@ These C++ modules deepen understanding of C++ OOP. Key concepts introduced are i
 
 [ft_irc](https://github.com/TrangPham93/irc_server) ![C++ Logo](https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B)
 
-[Inception]()
+A functional Internet Relay Chat (IRC) server written in C++.
+This project implements the core IRC protocol (RFC 2119 protocol), in which irc server allows multiple IRC clients (irssi is used as reference client) to connect, communicate, and manage channels in real time, without forking or blocking calls.
+
+[Inception](https://github.com/TrangPham93/inception) ![Docker Logo](https://img.shields.io/badge/-Docker-00599C?style=flat&logo=docker)
+
+Inception builds a small web infrastructure using Docker and Docker Compose, entirely inside a virtual machine. Without using pre-built images from Docker Hub, each service has its own custom `Dockerfile` to build its own container's image, all built on **Alpine 3.22.3**.
+
 <!--
 ## Rank 6
 [ft_transcendence]() -->
