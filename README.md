@@ -71,6 +71,9 @@ This project implements the core IRC protocol (RFC 2119 protocol), in which irc 
 
 Inception builds a small web infrastructure using Docker and Docker Compose, entirely inside a virtual machine. Without using pre-built images from Docker Hub, each service has its own custom `Dockerfile` to build its own container's image, all built on **Alpine 3.22.3**.
 
-<!--
 ## Rank 6
-[ft_transcendence]() -->
+[ft_transcendence](https://github.com/TrangPham93/plantbee) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+PlantBee is a smart plant monitoring and care ecosystem designed to empower the Hive Helsinki community to care for collective greenery through IoT integration and real-time data. It connects ESP32-based soil sensors to a high-performance Go backend, encouraging users to take immediate action when a plant is thirsty based on live, reliable metrics.
+
+The primary objective of PlantBee is to foster Hive Helsinki community-driven plant care through live data. By leveraging real-time sensor telemetry, the system monitors soil moisture and sensor health to ensure no plant is left thirsty. When a plant's vitals drop, the system generates actionable tasks, encouraging community members to intervene and provide care based on reliable, live information.
